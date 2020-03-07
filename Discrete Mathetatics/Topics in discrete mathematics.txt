@@ -2,6 +2,9 @@
 	Topics In Discrete Mathematics
 -----------------------------------------
 	
-	1 - Symbolic Logic 
+	1 - Symbolic Logic
+
+	2 - Mathematical proofs
+	
 	
 -----------------------------------------
