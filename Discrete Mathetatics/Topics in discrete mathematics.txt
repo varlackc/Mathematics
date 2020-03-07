@@ -6,5 +6,6 @@
 
 	2 - Mathematical proofs
 	
+	3 - Proof techniques
 	
 -----------------------------------------
