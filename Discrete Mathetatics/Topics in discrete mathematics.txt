@@ -17,4 +17,8 @@
 	7 - Summations
 	
 	8 - Algorithms
+	
+	9 - Number Theory
+	
+	
 -----------------------------------------
