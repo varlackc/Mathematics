@@ -1,7 +1,6 @@
 
 	# Topics In Discrete Mathematics
 
-	
 	1 - Symbolic Logic
 
 	2 - Mathematical proofs
@@ -29,5 +28,3 @@
 	13 - Graphs
 	
 	14 - Trees
-	
------------------------------------------
